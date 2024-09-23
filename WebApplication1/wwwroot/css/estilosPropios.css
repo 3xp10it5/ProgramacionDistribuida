@@ -1,0 +1,203 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-custom {
+    background-color: #007bff; /* Fondo azul */
+}
+
+    .navbar-custom .navbar-brand,
+    .navbar-custom .nav-link,
+    .navbar-custom .btn {
+        color: white; /* Letras blancas */
+    }
+
+    .navbar-custom .btn-outline-primary {
+        border-color: white;
+    }
+
+        .navbar-custom .btn-outline-primary:hover {
+            background-color: white;
+            color: #007bff;
+        }
+
+    .navbar-custom .navbar-toggler {
+        border-color: white; /* Cambia el color del borde del botón */
+    }
+
+    .navbar-custom .navbar-toggler-icon {
+        background-image: url(/img/icons8-menú.svg); /* Cambia el color de las líneas */
+    }
+
+    .navbar-custom .cart-icon {
+        display: flex;
+        align-items: center; /* Alinea verticalmente el icono del carrito */
+        margin-left: 30px; /* Empuja el carrito hacia la derecha */
+    }
+
+        .navbar-custom .cart-icon img {
+            width: 30px; /* Ajusta el tamaño del icono del carrito */
+            height: auto;
+            margin-left: 10px; /* Añade espacio entre el botón de inicio de sesión y el carrito */
+        }
+
+.navbar-nav {
+    display: flex;
+    align-items: center; /* Alinea verticalmente los elementos del navbar */
+}
+
+    .navbar-nav .nav-item {
+        margin-right: 15px; /* Ajusta el espacio entre los elementos del menú */
+    }
+
+@media (max-width: 768px) {
+    .carousel-inner {
+        height: 22vh; /* Ajusta la altura para dispositivos móviles */
+        margin-bottom: 2vh;
+    }
+}
+
+
+.carousel {
+    width: 100%;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto; /* Ajusta la altura automáticamente para mantener la relación de aspecto */
+    object-fit: cover; /* Asegura que la imagen cubra el contenedor sin distorsionarse */
+}
+
+.carousel-inner {
+    height: 60vh; /* Ajusta la altura a un porcentaje de la altura de la ventana */
+    margin-bottom: 5vh;
+}
+
+@media (max-width: 768px) {
+    .carousel-inner {
+        height: 22vh; /* Ajusta la altura para dispositivos móviles */
+        margin-bottom: 2vh;
+    }
+}
+
+
+/* Asegúrate de que el contenido dentro de la fila esté centrado */
+
+
+
+/* Asegúrate de que las columnas también estén centradas y alineadas verticalmente */
+.col-lg-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centra el contenido dentro de cada columna verticalmente */
+    text-align: center; /* Centra el texto dentro de cada columna */
+    margin-top: 5vh;
+}
+
+    .col-lg-4 svg {
+        margin-bottom: 1rem; /* Añade espacio debajo del SVG */
+    }
+
+.btn-secondary {
+    margin-top: 1rem; /* Añade espacio arriba del botón */
+}
+
+.img-fluid {
+    width: 150px; /* Ajusta el ancho según sea necesario */
+    height: 150px; /* Ajusta la altura según sea necesario */
+    object-fit: cover; /* Ajusta la imagen para cubrir el contenedor sin distorsionar */
+}
+
+/* Estilos para la fila featurette */
+.featurette {
+    margin-bottom: 30px; /* Espacio entre featurettes */
+    padding: 20px; /* Espacio interno */
+}
+
+/* Estilos para el encabezado */
+.featurette-heading {
+    font-size: 2.5rem; /* Tamaño de fuente más grande para el encabezado */
+    font-weight: bold;
+    color: #333; /* Color del texto */
+}
+
+    .featurette-heading .text-body-secondary {
+        color: #6c757d; /* Color secundario para el texto */
+    }
+
+.img-fluid2 {
+    width: 300px; /* Ajusta el ancho según sea necesario */
+    object-fit: cover; /* Ajusta la imagen para cubrir el contenedor sin distorsionar */
+}
+
+/* Estilos para el párrafo */
+.lead {
+    font-size: 1.25rem; /* Tamaño de fuente para el párrafo */
+    color: #555; /* Color del texto */
+}
+
+/* Estilos para la imagen */
+.featurette-image {
+    max-width: 100%; /* Asegura que la imagen no se salga del contenedor */
+    height: auto; /* Mantiene la proporción de la imagen */
+    border-radius: 10px; /* Bordes redondeados para la imagen */
+}
+
+/* Alineación para imágenes y texto en dispositivos grandes */
+@media (min-width: 768px) {
+    .featurette {
+        display: flex;
+        align-items: center;
+    }
+
+        .featurette .col-md-7 {
+            margin-bottom: 0;
+        }
+
+        .featurette .col-md-5 {
+            text-align: center;
+        }
+}
+
+.prueba {
+    margin-bottom: 5vh;
+}
+
+.containerForm {
+    background-color: #007bff; /* Azul */
+    padding: 30px;
+    border-radius: 20px; /* Borde de 20px */
+}
+
+.login-container {
+    width: 100%;
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+    .login-container .user-avatar {
+        width: 100px;
+        height: 100px;
+        margin: 0 auto 20px auto;
+        border-radius: 50%;
+        background-color: #007bff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+        .login-container .user-avatar img {
+            width: 90px;
+            height: 90px;
+            border-radius: 50%;
+        }
+
+.forgot-password {
+    text-align: right;
+    margin-top: 10px;
+}

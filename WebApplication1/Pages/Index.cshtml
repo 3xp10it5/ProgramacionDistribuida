@@ -1,0 +1,102 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<div id="carouselExampleAutoplaying" class="carousel slide">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="/img/Picture-of-a-motherboard.jpg" class="d-block w-100" alt="Imagen 1">
+        </div>
+        <div class="carousel-item">
+            <img src="/img/componentes-pc-gaming.webp" class="d-block w-100" alt="Imagen 2">
+        </div>
+        <div class="carousel-item">
+            <img src="/img/componentes.jpg" class="d-block w-100" alt="Imagen 3">
+        </div>
+        <div class="carousel-item">
+            <img src="/img/450_1000.jpeg" class="d-block w-100" alt="Imagen 4">
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
+<div class="row featurette">
+    <div class="col-md-7">
+        <h2 class="featurette-heading fw-normal lh-1">La mejor tienda de componentes. <span class="text-body-secondary">Lo mejor en tecnologia.</span></h2>
+        <p class="lead">Lorem ipsum dolor sit amet consectetur adipiscing elit, eleifend tempus vitae ad euismod.</p>
+    </div>
+    <div class="col-md-5">
+        <img src="/img/Pc-Armada-All-in-one-basic-PC-Spartan-Lite-Monitor-LG-y-perifericos-Ultra_ac.png" class="featurette-image img-fluid2 mx-auto" alt="Featurette Image">
+    </div>
+</div>
+
+<div class="row prueba text-center">
+    <div class="col-lg-4">
+        <img src="/img/geforce-ada-40-series-nv-sfg-295x166@2x.jpg" alt="Componentes" class="rounded-circle img-fluid" >
+        <h2 class="fw-normal">Componentes</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit, eleifend tempus vitae ad euismod..</p>
+        <p><a class="btn btn-secondary" href="#">Ver más »</a></p>
+    </div><!-- /.col-lg-4 -->
+    <div class="col-lg-4">
+        <img src="/img/Ordenador-PC-Gaming-IP.jpg.webp" alt="Computadoras" class="rounded-circle img-fluid" >
+        <h2 class="fw-normal">Computadoras</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit, eleifend tempus vitae ad euismod..</p>
+        <p><a class="btn btn-secondary" href="#">Ver más »</a></p>
+    </div><!-- /.col-lg-4 -->
+    <div class="col-lg-4">
+        <img src="/img/image010.jpg" alt="Mantenimiento" class="rounded-circle img-fluid" >
+        <h2 class="fw-normal">Mantenimiento</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit, eleifend tempus vitae ad euismod..</p>
+        <p><a class="btn btn-secondary" href="#">Ver más »</a></p>
+    </div><!-- /.col-lg-4 -->
+</div>
+
+<div class="container mt-5">
+    <div class="row">
+        <!-- Card 1 -->
+        <div class="col-md-4">
+            <div class="card">
+                <img src="/img/monitor.png" class="card-img-top" alt="Imagen del producto 1">
+                <div class="card-body">
+                    <h5 class="card-title">$2599.99</h5>
+                    <p class="card-text">Monitor Gamer Cooler Master GA271 LCD 27" / Wide Quad HD / G-Sync/FreeSync / 100Hz / HDMI / Negro / CMI-GA271-US </p>
+                    <a href="#" class="btn btn-primary">Añadir al carrito</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="col-md-4">
+            <div class="card">
+                <img src="/img/grafica.png" class="card-img-top" alt="Imagen del producto 2">
+                <div class="card-body">
+                    <h5 class="card-title">$4299.99</h5>
+                    <p class="card-text">Tarjeta de Video XFX Speedster SWFT210 Radeon RX 6650XT / 8GB GDDR6 / HDMI 3xDP / AMD RDNA 2 / RX-665X8DFDY </p>
+                    <a href="#" class="btn btn-primary">Añadir al carrito</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 3 -->
+        <div class="col-md-4">
+            <div class="card">
+                <img src="/img/pc.png" class="card-img-top" alt="Imagen del producto 3">
+                <div class="card-body">
+                    <h5 class="card-title">$33999.99</h5>
+                    <p class="card-text">Computadora PRIDE MSI MONSTER HUNTER / NVIDIA GeForce RTX 4060Ti / INTEL CORE I5 14600KF 3.5 GHZ / 32GB RAM / 2TB SSD M.2 NVMe / ENF. LIQ. 360MM / 750W 80+ GOLD / </p>
+                    <a href="#" class="btn btn-primary">Añadir al carrito</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

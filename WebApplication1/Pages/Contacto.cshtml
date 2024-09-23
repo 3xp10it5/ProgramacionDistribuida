@@ -1,0 +1,43 @@
+﻿@page
+@model WebApplication1.Pages.ContactoModel
+@{
+    ViewData["Title"] = "Contacto";
+}
+
+<div class="containerForm mt-5">
+    <div class="form-container">
+        <form asp-action="YourActionMethod" method="post" novalidate class="needs-validation" id="contactForm">
+            <div class="mb-3">
+                <label asp-for="Nombre" class="form-label text-white">Nombre</label>
+                <input asp-for="Nombre" class="form-control" required />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Telefono" class="form-label text-white">Teléfono</label>
+                <input asp-for="Telefono" class="form-control" type="tel" required />
+                <span asp-validation-for="Telefono" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="CorreoElectronico" class="form-label text-white">Correo Electrónico</label>
+                <input asp-for="CorreoElectronico" class="form-control" type="email" required />
+                <span asp-validation-for="CorreoElectronico" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Mensaje" class="form-label text-white">Mensaje</label>
+                <textarea asp-for="Mensaje" class="form-control" rows="4" required></textarea>
+                <span asp-validation-for="Mensaje" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary" style="background-color: #0c0;">Enviar</button>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
