@@ -1,6 +1,7 @@
 ﻿body {
     margin: 0;
     padding: 0;
+    background-color: #E3F1FF;
 }
 
 .container-fluid {
@@ -240,7 +241,7 @@
 }
 
 .productos-destacados-cards {
-    width: 80vw;
+    width: 60vw;
     margin: 0 auto;
 }
 
@@ -289,26 +290,29 @@
     }
 }
 
-    .login-container {
-        width: 100%;
-        max-width: 400px;
-        margin: 50px auto;
-        padding: 20px;
-        background-color: #f8f9fa;
-        border-radius: 20px;
-        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.35);
-    }
+.login-container {
+    width: 100%;
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.35);
+    position: relative;
+    top: 15%;
+}
 
-        .login-container .user-avatar {
-            width: 100px;
-            height: 100px;
-            margin: 0 auto 20px auto;
-            border-radius: 50%;
-            background-color: #007bff;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
+    .login-container .user-avatar {
+        width: 100px;
+        height: 100px;
+        margin: 0 auto 20px auto;
+        border-radius: 50%;
+        background-color: #007bff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
 
             .login-container .user-avatar img {
                 width: 90px;
@@ -327,4 +331,8 @@
 
 .hover-detector {
     pointer-events: all;
+}
+
+.login-seccion {
+    height: 70vh;
 }

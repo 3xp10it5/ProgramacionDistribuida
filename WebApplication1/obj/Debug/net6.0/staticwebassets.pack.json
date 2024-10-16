@@ -213,10 +213,6 @@
       "PackagePath": "staticwebassets\\img\\Ordenador-PC-Gaming-IP.jpg.webp"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\Pc-Armada-All-in-one-basic-PC-Spartan-Lite-Monitor-LG-y-perifericos-Ultra_ac.png",
-      "PackagePath": "staticwebassets\\img\\Pc-Armada-All-in-one-basic-PC-Spartan-Lite-Monitor-LG-y-perifericos-Ultra_ac.png"
-    },
-    {
       "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\Picture-of-a-motherboard.jpg",
       "PackagePath": "staticwebassets\\img\\Picture-of-a-motherboard.jpg"
     },
@@ -263,6 +259,10 @@
     {
       "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\pc.png",
       "PackagePath": "staticwebassets\\img\\pc.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\pcseccion.png",
+      "PackagePath": "staticwebassets\\img\\pcseccion.png"
     },
     {
       "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\ubicacion.png",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0BcNgPP6aVRadGvN8PiOdZGwE80w0GPYMCH2iLcM9Ew=",
+  "Hash": "qtN8L28a55InBk5VAfB3SLslpckIiGhV5V2f4hLRvdc=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -1122,12 +1122,12 @@
       "OriginalItemSpec": "wwwroot\\img\\pc.png"
     },
     {
-      "Identity": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\Pc-Armada-All-in-one-basic-PC-Spartan-Lite-Monitor-LG-y-perifericos-Ultra_ac.png",
+      "Identity": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\pcseccion.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "img/Pc-Armada-All-in-one-basic-PC-Spartan-Lite-Monitor-LG-y-perifericos-Ultra_ac.png",
+      "RelativePath": "img/pcseccion.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1136,7 +1136,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Pc-Armada-All-in-one-basic-PC-Spartan-Lite-Monitor-LG-y-perifericos-Ultra_ac.png"
+      "OriginalItemSpec": "wwwroot\\img\\pcseccion.png"
     },
     {
       "Identity": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\Picture-of-a-motherboard.jpg",
