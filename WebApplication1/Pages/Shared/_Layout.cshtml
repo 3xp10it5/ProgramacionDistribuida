@@ -9,14 +9,16 @@
     <link rel="stylesheet" href="~/WebApplication1.styles.css" asp-append-version="true" />
     <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="~/css/estilosPropios.css" asp-append-version="true" />
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+          
 
 </head>
 <body>
     <header>
         <nav class="navbar navbar-expand-lg navbar-custom">
             <div class="container">
-                <a class="navbar-brand" href="#">
-                    <img src="~/img/OIG3.png" alt="Logo" width="50" height="50" class="d-inline-block align-text-top">
+                <a class="navbar-brand" href="/index">
+                    <img src="~/img/logo.png" alt="Logo" width="50" height="50" class="d-inline-block align-text-top logo-empresa">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -38,7 +40,7 @@
                     </ul>
                     <a href="/login" class="btn btn-outline-primary" role="button">Inicio de Sesión</a>
                     <div class="cart-icon">
-                        <a href="#">
+                        <a href="#" class="img-centrada">
                             <img src="~/img/Diseño sin título.png" alt="Carrito" />
                         </a>
                     </div>
@@ -46,20 +48,33 @@
             </div>
         </nav>
     </header>
-    <div class="container">
-        <main role="main" class="pb-3">
+    <div class="">
+        <main role="main" class="">
             @RenderBody()
         </main>
     </div>
 
-    <footer>
-        
-    </footer>
+  
+    <div class="container-fluid">
+        <footer class="my-4">
+            <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+                <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>
+                <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Features</a></li>
+                <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Pricing</a></li>
+                <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">FAQs</a></li>
+                <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">About</a></li>
+            </ul>
+            <p class="text-center text-body-secondary">© 2024 Company, Inc</p>
+        </footer>
+    </div>
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
-    
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
 
 
     @await RenderSectionAsync("Scripts", required: false)

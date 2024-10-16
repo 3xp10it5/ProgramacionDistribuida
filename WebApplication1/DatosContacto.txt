@@ -1,0 +1,14 @@
+Nombre: Leonardo Hdz
+Teléfono: 8130910346
+Correo Electrónico: leonardo-03.07@hotmail.com
+Asunto: Solicitud-de-servicio
+Mensaje: Prueba del guardado de datos del formulario dentro de un archivo de texto.
+Fecha: 15/10/2024 11:10:55 a. m.
+----------------------------------------
+Nombre: Prueba
+Teléfono: 8125621954
+Correo Electrónico: leonardo.hernandez@hmtech.com.mx
+Asunto: Componentes
+Mensaje: adawdadawda
+Fecha: 15/10/2024 11:12:12 a. m.
+----------------------------------------

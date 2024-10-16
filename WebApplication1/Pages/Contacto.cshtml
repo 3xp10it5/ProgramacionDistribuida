@@ -4,39 +4,107 @@
     ViewData["Title"] = "Contacto";
 }
 
-<div class="containerForm mt-5">
-    <div class="form-container">
-        <form asp-action="YourActionMethod" method="post" novalidate class="needs-validation" id="contactForm">
-            <div class="mb-3">
-                <label asp-for="Nombre" class="form-label text-white">Nombre</label>
-                <input asp-for="Nombre" class="form-control" required />
-                <span asp-validation-for="Nombre" class="text-danger"></span>
+<div class="container-fluid">
+    <div class="row featurette contacto-seccion">
+        <div class="containerForm mt-5">
+            <div class="form-container">
+                <h3 class="mb-4 texto-contacto titulo-form">FORMULARIO DE CONTACTO</h3>
+                <form asp-action="YourActionMethod" method="post" novalidate class="needs-validation" id="contactForm">
+                    <div class="mb-3">
+                        <label asp-for="Nombre" class="form-label text-white">Nombre o empresa</label>
+                        <input asp-for="Nombre" class="form-control" required />
+                        <span asp-validation-for="Nombre" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Telefono" class="form-label text-white">Teléfono</label>
+                        <input asp-for="Telefono" class="form-control" type="tel" required />
+                        <span asp-validation-for="Telefono" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="CorreoElectronico" class="form-label text-white">Correo Electrónico</label>
+                        <input asp-for="CorreoElectronico" class="form-control" type="email" required />
+                        <span asp-validation-for="CorreoElectronico" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Asunto" class="form-label text-white">Seleccione un asunto</label>
+                        <select asp-for="Asunto" class="form-control">
+                            <option value="">Seleccione una opción...</option>
+                            <option value="Componentes">Componentes</option>
+                            <option value="Solicitud-de-servicio">Solicitud de servicio</option>
+                            <option value="Soporte-tecnico">Soporte tecnico</option>
+                            <option value="Contacto">Contacto</option>
+                        </select>
+                        <span asp-validation-for="Asunto" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Mensaje" class="form-label text-white">Mensaje</label>
+                        <textarea asp-for="Mensaje" class="form-control" rows="4" required></textarea>
+                        <span asp-validation-for="Mensaje" class="text-danger"></span>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary" style="background-color: #0c0; margin-bottom: 1rem;">Enviar</button>
+                    @if (TempData["SuccessMessage"] != null)
+                    {
+                        <div class="alert alert-success">
+                            @TempData["SuccessMessage"]
+                        </div>
+                    }
+                </form>
+            </div>
+        </div>
+
+
+        <div class="col-md-5">
+            <div class="container mt-5">
+                <h3 class="mb-4 texto-contacto titulo-contacto">INFORMACIÓN ADICIONAL</h3>
+                <div class="row">
+                    <!-- Horarios de Atención -->
+                    <div class="col-12 mb-4">
+                        <div class="align-items-start texto-contacto">
+                            <img src="/img/horarios.png" alt="Icono Horarios" class="img-contacto">
+                            <div>
+                                <h5>Horarios de Atención</h5>
+                                <p>Lunes a Viernes: 9:00 AM - 6:00 PM</p>
+                                <p>Sábado: 10:00 AM - 2:00 PM</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Información de Contacto Adicional -->
+                    <div class="col-12 mb-4">
+                        <div class="align-items-start texto-contacto">
+                            <img src="/img/contacto.png" alt="Icono Contacto" class="img-contacto">
+                            <div>
+                                <h5>Información de Contacto</h5>
+                                <p>Teléfono: +52 555 123 4567</p>
+                                <p>Email: contacto@empresa.com</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Dirección de la Empresa -->
+                    <div class="col-12 mb-4">
+                        <div class="align-items-start texto-contacto">
+                            <img src="/img/ubicacion.png" alt="Icono Dirección" class="img-contacto">
+                            <div>
+                                <h5>Dirección</h5>
+                                <p>Calle Ejemplo 123, Colonia Centro</p>
+                                <p>Ciudad, Estado, CP 12345</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
 
-            <div class="mb-3">
-                <label asp-for="Telefono" class="form-label text-white">Teléfono</label>
-                <input asp-for="Telefono" class="form-control" type="tel" required />
-                <span asp-validation-for="Telefono" class="text-danger"></span>
-            </div>
-
-            <div class="mb-3">
-                <label asp-for="CorreoElectronico" class="form-label text-white">Correo Electrónico</label>
-                <input asp-for="CorreoElectronico" class="form-control" type="email" required />
-                <span asp-validation-for="CorreoElectronico" class="text-danger"></span>
-            </div>
-
-            <div class="mb-3">
-                <label asp-for="Mensaje" class="form-label text-white">Mensaje</label>
-                <textarea asp-for="Mensaje" class="form-control" rows="4" required></textarea>
-                <span asp-validation-for="Mensaje" class="text-danger"></span>
-            </div>
-
-            <button type="submit" class="btn btn-primary" style="background-color: #0c0;">Enviar</button>
-        </form>
+        </div>
     </div>
 </div>
 
 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3594.279262030611!2d-100.3133664208598!3d25.728276919030442!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x866295094da26085%3A0x7262d01b7781d627!2sFACPYA%20Facultad%20de%20Contadur%C3%ADa%20P%C3%BAblica%20y%20Administraci%C3%B3n!5e0!3m2!1ses-419!2smx!4v1729003358478!5m2!1ses-419!2smx" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />

@@ -3,10 +3,26 @@
     padding: 0;
 }
 
+.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+}
+
 .navbar-custom {
     background-color: #007bff; /* Fondo azul */
 }
 
+.logo-empresa {
+    width: auto;
+}
+
+.footer-pagina {
+    background-color: #007bff;
+}
+
+.texto-footer {
+    color: white !important;
+}
     .navbar-custom .navbar-brand,
     .navbar-custom .nav-link,
     .navbar-custom .btn {
@@ -74,6 +90,13 @@
     margin-bottom: 5vh;
 }
 
+@media (max-width: 1024px) {
+    .carousel-inner {
+        height: 45vh;
+        margin-bottom: 2vh;
+    }
+}
+
 @media (max-width: 768px) {
     .carousel-inner {
         height: 22vh; /* Ajusta la altura para dispositivos móviles */
@@ -81,10 +104,35 @@
     }
 }
 
+@media (max-width: 992px) {
+    .navbar-custom .btn-outline-primary {
+        margin: 0 auto;
+        width: fit-content;
+        display: block;
+    }
+    .img-centrada {
+        margin: 0 auto;
+    }
+    .navbar-custom .cart-icon {
+        display: flex;
+        align-items: center;
+        margin-left: 0px;
+    }
+    .navbar-custom .cart-icon img {
+        margin-left: 0px;
+        margin-top: .5rem;
+        margin-bottom: 1rem;
+    }
+}
 
+.navbar-nav .nav-item {
+    margin-right: 0px;
+}
 /* Asegúrate de que el contenido dentro de la fila esté centrado */
 
-
+.dots-color {
+    background-color: #007bff;
+}
 
 /* Asegúrate de que las columnas también estén centradas y alineadas verticalmente */
 .col-lg-4 {
@@ -100,19 +148,34 @@
     }
 
 .btn-secondary {
-    margin-top: 1rem; /* Añade espacio arriba del botón */
+    margin-top: 1rem;
+    background-color: #00ff1d;
+    border-color: #00ff1d;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.35);
+}
+
+.titulo-dots {
+    color: white;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.texto-dots {
+    color: white;
 }
 
 .img-fluid {
-    width: 150px; /* Ajusta el ancho según sea necesario */
-    height: 150px; /* Ajusta la altura según sea necesario */
+    width: 200px; /* Ajusta el ancho según sea necesario */
+    height: 200px; /* Ajusta la altura según sea necesario */
     object-fit: cover; /* Ajusta la imagen para cubrir el contenedor sin distorsionar */
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.35);
+    margin-bottom: 1rem;
 }
 
 /* Estilos para la fila featurette */
 .featurette {
-    margin-bottom: 30px; /* Espacio entre featurettes */
-    padding: 20px; /* Espacio interno */
+    margin-bottom: 4rem;
+    padding: 1rem;
+    margin-top: 4rem;
 }
 
 /* Estilos para el encabezado */
@@ -120,11 +183,16 @@
     font-size: 2.5rem; /* Tamaño de fuente más grande para el encabezado */
     font-weight: bold;
     color: #333; /* Color del texto */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
 
-    .featurette-heading .text-body-secondary {
-        color: #6c757d; /* Color secundario para el texto */
-    }
+.carrusel-items{
+    height:fit-content;
+}
+
+.text-body-secondary {
+    color: #007bff; /* Color secundario para el texto */
+}        
 
 .img-fluid2 {
     width: 300px; /* Ajusta el ancho según sea necesario */
@@ -160,44 +228,103 @@
         }
 }
 
+.productos-destacados {
+    font-size: 2.5rem;
+    font-weight: 400;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    color: #333;
+}
+
+.btn-primary {
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.35);
+}
+
+.productos-destacados-cards {
+    width: 80vw;
+    margin: 0 auto;
+}
+
 .prueba {
-    margin-bottom: 5vh;
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
+    margin-top: 2rem;
+    padding-top: 2rem;
 }
 
 .containerForm {
     background-color: #007bff; /* Azul */
-    padding: 30px;
+    padding: 2rem;
     border-radius: 20px; /* Borde de 20px */
+    width: 45%;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.35);
+    margin: 5vw;
 }
 
-.login-container {
-    width: 100%;
-    max-width: 400px;
-    margin: 50px auto;
-    padding: 20px;
-    background-color: #f8f9fa;
-    border-radius: 20px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+.img-contacto{
+    width: 8vh;
 }
 
-    .login-container .user-avatar {
-        width: 100px;
-        height: 100px;
-        margin: 0 auto 20px auto;
-        border-radius: 50%;
-        background-color: #007bff;
-        display: flex;
-        align-items: center;
-        justify-content: center;
+.contacto-seccion {
+    margin-bottom: 0rem;
+    padding: 0rem;
+    margin-top: 0rem;
+}
+
+.texto-contacto {
+    text-align: center;
+}
+
+.titulo-contacto {
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    color: #0D6EFD;
+}
+
+.titulo-form{
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .containerForm {
+        width: 90%;
+    }
+}
+
+    .login-container {
+        width: 100%;
+        max-width: 400px;
+        margin: 50px auto;
+        padding: 20px;
+        background-color: #f8f9fa;
+        border-radius: 20px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.35);
     }
 
-        .login-container .user-avatar img {
-            width: 90px;
-            height: 90px;
+        .login-container .user-avatar {
+            width: 100px;
+            height: 100px;
+            margin: 0 auto 20px auto;
             border-radius: 50%;
+            background-color: #007bff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
 
-.forgot-password {
-    text-align: right;
-    margin-top: 10px;
+            .login-container .user-avatar img {
+                width: 90px;
+                height: 90px;
+                border-radius: 50%;
+            }
+
+    .forgot-password {
+        text-align: right;
+        margin-top: 10px;
+    }
+
+.no-hover {
+    pointer-events: none;
+}
+
+.hover-detector {
+    pointer-events: all;
 }

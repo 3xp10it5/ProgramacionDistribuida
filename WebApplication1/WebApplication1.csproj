@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\img\" />
+    <Folder Include="wwwroot\form_data\" />
   </ItemGroup>
 
 </Project>
