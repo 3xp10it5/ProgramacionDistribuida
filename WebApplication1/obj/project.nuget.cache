@@ -1,9 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "+P8aIfWVec4=",
+=======
+  "dgSpecHash": "/q66UGjYO9tTZYgnOtZ7IJUoCVCMCMylDS6ZrHuIbNXWtBrMUTPhZkz5EZHCJg/TF+jqLxAxzCXF0XIuqEOQhA==",
+>>>>>>> 9081484b0975eb4316120dbcc460f669949c9a44
   "success": true,
-  "projectFilePath": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
+<<<<<<< HEAD
     "C:\\Users\\PRACTICANTE\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\PRACTICANTE\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512",
@@ -61,6 +66,10 @@
     "C:\\Users\\PRACTICANTE\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
     "C:\\Users\\PRACTICANTE\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\PRACTICANTE\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+=======
+    "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\popper.js\\1.16.1\\popper.js.1.16.1.nupkg.sha512"
+>>>>>>> 9081484b0975eb4316120dbcc460f669949c9a44
   ],
   "logs": []
 }

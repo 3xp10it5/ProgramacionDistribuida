@@ -4,12 +4,38 @@
     ViewData["Title"] = "Login";
 }
 
-<div class="login-container">
-    <!-- Foto de usuario en círculo -->
-    <div class="user-avatar">
-        <img src="https://via.placeholder.com/90" alt="User Avatar">
+<div class="container login-seccion">
+    <div class="login-container">
+        <!-- Foto de usuario en círculo -->
+        <div class="user-avatar">
+            <img src="~/favicon.png" alt="User Avatar">
+        </div>
+
+        <!-- Formulario de inicio de sesión -->
+        <form action="/login" method="post" class="needs-validation" novalidate>
+            <div class="mb-3">
+                <label asp-for="Usuario" class="form-label">Usuario</label>
+                <input asp-for="Usuario" class="form-control" required>
+                <span asp-validation-for="Usuario" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Contraseña" class="form-label">Usuario</label>
+                <input asp-for="Contraseña" class="form-control" required>
+                <span asp-validation-for="Contraseña" class="text-danger"></span>
+            </div>
+
+            <!-- Enlace para "Forgot password" -->
+            <div class="forgot-password">
+                <a href="#" class="text-primary">¿Olvidaste tu contraseña?</a>
+            </div>
+
+            <!-- Botón de enviar -->
+            <button type="submit" class="btn btn-primary w-100 mt-3">Iniciar Sesión</button>
+        </form>
     </div>
 
+<<<<<<< HEAD
     <!-- Formulario de inicio de sesión -->
     <form method="post" class="needs-validation" novalidate>
         <div class="mb-3">
@@ -32,6 +58,8 @@
         <!-- Botón de enviar -->
         <button type="submit" class="btn btn-primary w-100 mt-3">Iniciar Sesión</button>
     </form>
+=======
+>>>>>>> 9081484b0975eb4316120dbcc460f669949c9a44
 </div>
 
 @section Scripts {

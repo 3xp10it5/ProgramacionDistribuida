@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\obj\\",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PRACTICANTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -78,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
