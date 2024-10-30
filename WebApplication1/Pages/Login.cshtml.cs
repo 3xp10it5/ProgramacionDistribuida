@@ -9,6 +9,7 @@ using WebApplication1.Data; // Asegúrate de que este using esté presente
 
 
 
+
 namespace WebApplication1.Pages
 {
     public class LoginModel : PageModel
@@ -44,7 +45,7 @@ namespace WebApplication1.Pages
                 if (usuario != null)
                 {
                     // Autenticación exitosa: puedes redirigir a otra página
-                    return RedirectToPage("/Index"); // Cambia "/Index" a la página que desees
+                    return RedirectToPage("/confirmacion_usuario"); // Cambia "/Index" a la página que desees
                 }
                 else
                 {

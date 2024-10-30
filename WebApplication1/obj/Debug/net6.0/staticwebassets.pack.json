@@ -1,503 +1,503 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\PC\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\PRACTICANTE\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
       "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\estilosPropios.css",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\css\\estilosPropios.css",
       "PackagePath": "staticwebassets\\css\\estilosPropios.css"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\form_data\\DatosContacto.txt",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\form_data\\DatosContacto.txt",
       "PackagePath": "staticwebassets\\form_data\\DatosContacto.txt"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\450_1000.jpeg",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\450_1000.jpeg",
       "PackagePath": "staticwebassets\\img\\450_1000.jpeg"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\Diseño sin título.png",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\Diseño sin título.png",
       "PackagePath": "staticwebassets\\img\\Diseño sin título.png"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\Ordenador-PC-Gaming-IP.jpg.webp",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\Ordenador-PC-Gaming-IP.jpg.webp",
       "PackagePath": "staticwebassets\\img\\Ordenador-PC-Gaming-IP.jpg.webp"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\Picture-of-a-motherboard.jpg",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\Picture-of-a-motherboard.jpg",
       "PackagePath": "staticwebassets\\img\\Picture-of-a-motherboard.jpg"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\componentes-pc-gaming.webp",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\componentes-pc-gaming.webp",
       "PackagePath": "staticwebassets\\img\\componentes-pc-gaming.webp"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\componentes.jpg",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\componentes.jpg",
       "PackagePath": "staticwebassets\\img\\componentes.jpg"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\contacto.png",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\contacto.png",
       "PackagePath": "staticwebassets\\img\\contacto.png"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\geforce-ada-40-series-nv-sfg-295x166@2x.jpg",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\geforce-ada-40-series-nv-sfg-295x166@2x.jpg",
       "PackagePath": "staticwebassets\\img\\geforce-ada-40-series-nv-sfg-295x166@2x.jpg"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\grafica.png",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\grafica.png",
       "PackagePath": "staticwebassets\\img\\grafica.png"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\horarios.png",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\horarios.png",
       "PackagePath": "staticwebassets\\img\\horarios.png"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\icons8-menú.svg",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\icons8-menú.svg",
       "PackagePath": "staticwebassets\\img\\icons8-menú.svg"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\image010.jpg",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\image010.jpg",
       "PackagePath": "staticwebassets\\img\\image010.jpg"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\logo.png",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\monitor.png",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\monitor.png",
       "PackagePath": "staticwebassets\\img\\monitor.png"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\pc.png",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\pc.png",
       "PackagePath": "staticwebassets\\img\\pc.png"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\pcseccion.png",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\pcseccion.png",
       "PackagePath": "staticwebassets\\img\\pcseccion.png"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\ubicacion.png",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\ubicacion.png",
       "PackagePath": "staticwebassets\\img\\ubicacion.png"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\PC\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
