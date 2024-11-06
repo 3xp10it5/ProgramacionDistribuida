@@ -209,6 +209,10 @@
       "PackagePath": "staticwebassets\\img\\Diseño sin título.png"
     },
     {
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\Navy Blue Futuristic Virtual Technology Banner.png",
+      "PackagePath": "staticwebassets\\img\\Navy Blue Futuristic Virtual Technology Banner.png"
+    },
+    {
       "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\Ordenador-PC-Gaming-IP.jpg.webp",
       "PackagePath": "staticwebassets\\img\\Ordenador-PC-Gaming-IP.jpg.webp"
     },
@@ -223,6 +227,10 @@
     {
       "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\componentes.jpg",
       "PackagePath": "staticwebassets\\img\\componentes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\contactanos-img.png",
+      "PackagePath": "staticwebassets\\img\\contactanos-img.png"
     },
     {
       "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\contacto.png",
@@ -249,6 +257,10 @@
       "PackagePath": "staticwebassets\\img\\image010.jpg"
     },
     {
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\logo-techno.png",
+      "PackagePath": "staticwebassets\\img\\logo-techno.png"
+    },
+    {
       "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
@@ -257,12 +269,20 @@
       "PackagePath": "staticwebassets\\img\\monitor.png"
     },
     {
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\nuestros-productos.png",
+      "PackagePath": "staticwebassets\\img\\nuestros-productos.png"
+    },
+    {
       "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\pc.png",
       "PackagePath": "staticwebassets\\img\\pc.png"
     },
     {
       "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\pcseccion.png",
       "PackagePath": "staticwebassets\\img\\pcseccion.png"
+    },
+    {
+      "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\promo-20.png",
+      "PackagePath": "staticwebassets\\img\\promo-20.png"
     },
     {
       "Id": "C:\\Users\\PRACTICANTE\\Source\\Repos\\ProgramacionDistribuida\\WebApplication1\\wwwroot\\img\\ubicacion.png",

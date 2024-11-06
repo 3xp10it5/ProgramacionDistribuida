@@ -4,48 +4,56 @@
     ViewData["Title"] = "Productos";
 }
 
-<div class="container mt-5">
-    <div class="row">
-        <!-- Card 1 -->
-        <div class="col-md-4">
-            <div class="card">
-                <img src="/img/monitor.png" class="card-img-top" alt="Imagen del producto 1">
-                <div class="card-body">
-                    <h5 class="card-title">$2599.99</h5>
-                    <p class="card-text">Monitor Gamer Cooler Master GA271 LCD 27" / Wide Quad HD / G-Sync/FreeSync / 100Hz / HDMI / Negro / CMI-GA271-US </p>
-                    <a href="#" class="btn btn-primary">Añadir al carrito</a>
-                </div>
-            </div>
-        </div>
 
-        <!-- Card 2 -->
-        <div class="col-md-4">
-            <div class="card">
-                <img src="/img/grafica.png" class="card-img-top" alt="Imagen del producto 2">
-                <div class="card-body">
-                    <h5 class="card-title">$4299.99</h5>
-                    <p class="card-text">Tarjeta de Video XFX Speedster SWFT210 Radeon RX 6650XT / 8GB GDDR6 / HDMI 3xDP / AMD RDNA 2 / RX-665X8DFDY </p>
-                    <a href="#" class="btn btn-primary">Añadir al carrito</a>
-                </div>
-            </div>
-        </div>
-
-        <!-- Card 3 -->
-        <div class="col-md-4">
-            <div class="card">
-                <img src="/img/pc.png" class="card-img-top" alt="Imagen del producto 3">
-                <div class="card-body">
-                    <h5 class="card-title">$33999.99</h5>
-                    <p class="card-text">Computadora PRIDE MSI MONSTER HUNTER / NVIDIA GeForce RTX 4060Ti / INTEL CORE I5 14600KF 3.5 GHZ / 32GB RAM / 2TB SSD M.2 NVMe / ENF. LIQ. 360MM / 750W 80+ GOLD / </p>
-                    <a href="#" class="btn btn-primary">Añadir al carrito</a>
-                </div>
-            </div>
-        </div>
+<div class="container-fluid">
+    <div class="img-contactanos">
+        <img src="/img/nuestros-productos.png" alt="" />
     </div>
 </div>
 
 <div class="container mt-5">
+    <!-- Filtros de productos -->
+    <form class="mb-4">
+        <div class="row">
+            <!-- Filtro de nombre del producto -->
+            <div class="col-md-3">
+                <label for="productName" class="form-label">Nombre del producto</label>
+                <input type="text" class="form-control" id="productName" placeholder="Buscar producto...">
+            </div>
+
+            <!-- Filtro de rango de precios -->
+            <div class="col-md-3">
+                <label for="priceRange" class="form-label">Rango de precios</label>
+                <select class="form-select" id="priceRange">
+                    <option selected>Selecciona el rango de precios</option>
+                    <option value="1">Menos de $3000</option>
+                    <option value="2">$3000 - $10000</option>
+                    <option value="3">Más de $10000</option>
+                </select>
+            </div>
+
+            <!-- Filtro de categorías -->
+            <div class="col-md-3">
+                <label for="category" class="form-label">Categoría</label>
+                <select class="form-select" id="category">
+                    <option selected>Selecciona la categoría</option>
+                    <option value="monitores">Monitores</option>
+                    <option value="tarjetas-graficas">Tarjetas Gráficas</option>
+                    <option value="pcs">Computadoras</option>
+                    <!-- Agrega más opciones de categorías aquí -->
+                </select>
+            </div>
+
+            <!-- Botón de aplicar filtros -->
+            <div class="col-md-3 d-flex align-items-end">
+                <button type="button" class="btn btn-primary w-100">Aplicar Filtros</button>
+            </div>
+        </div>
+    </form>
+
+    <!-- Contenedor de productos -->
     <div class="row">
+        <!-- Ejemplo de tarjeta de producto -->
         <!-- Card 1 -->
         <div class="col-md-4">
             <div class="card">
@@ -76,16 +84,12 @@
                 <img src="/img/pc.png" class="card-img-top" alt="Imagen del producto 3">
                 <div class="card-body">
                     <h5 class="card-title">$33999.99</h5>
-                    <p class="card-text">Computadora PRIDE MSI MONSTER HUNTER / NVIDIA GeForce RTX 4060Ti / INTEL CORE I5 14600KF 3.5 GHZ / 32GB RAM / 2TB SSD M.2 NVMe / ENF. LIQ. 360MM / 750W 80+ GOLD / </p>
+                    <p class="card-text">NVIDIA GeForce RTX 4060Ti / INTEL CORE I5 14600KF 3.5 GHZ / 32GB RAM / 2TB SSD M.2 NVMe / ENF. LIQ. 360MM</p>
                     <a href="#" class="btn btn-primary">Añadir al carrito</a>
                 </div>
             </div>
         </div>
-    </div>
-</div>
 
-<div class="container mt-5">
-    <div class="row">
         <!-- Card 1 -->
         <div class="col-md-4">
             <div class="card">
@@ -116,12 +120,157 @@
                 <img src="/img/pc.png" class="card-img-top" alt="Imagen del producto 3">
                 <div class="card-body">
                     <h5 class="card-title">$33999.99</h5>
-                    <p class="card-text">Computadora PRIDE MSI MONSTER HUNTER / NVIDIA GeForce RTX 4060Ti / INTEL CORE I5 14600KF 3.5 GHZ / 32GB RAM / 2TB SSD M.2 NVMe / ENF. LIQ. 360MM / 750W 80+ GOLD / </p>
+                    <p class="card-text">NVIDIA GeForce RTX 4060Ti / INTEL CORE I5 14600KF 3.5 GHZ / 32GB RAM / 2TB SSD M.2 NVMe / ENF. LIQ. 360MM</p>
+                    <a href="#" class="btn btn-primary">Añadir al carrito</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 1 -->
+        <div class="col-md-4">
+            <div class="card">
+                <img src="/img/monitor.png" class="card-img-top" alt="Imagen del producto 1">
+                <div class="card-body">
+                    <h5 class="card-title">$2599.99</h5>
+                    <p class="card-text">Monitor Gamer Cooler Master GA271 LCD 27" / Wide Quad HD / G-Sync/FreeSync / 100Hz / HDMI / Negro / CMI-GA271-US </p>
+                    <a href="#" class="btn btn-primary">Añadir al carrito</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="col-md-4">
+            <div class="card">
+                <img src="/img/grafica.png" class="card-img-top" alt="Imagen del producto 2">
+                <div class="card-body">
+                    <h5 class="card-title">$4299.99</h5>
+                    <p class="card-text">Tarjeta de Video XFX Speedster SWFT210 Radeon RX 6650XT / 8GB GDDR6 / HDMI 3xDP / AMD RDNA 2 / RX-665X8DFDY </p>
+                    <a href="#" class="btn btn-primary">Añadir al carrito</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 3 -->
+        <div class="col-md-4">
+            <div class="card">
+                <img src="/img/pc.png" class="card-img-top" alt="Imagen del producto 3">
+                <div class="card-body">
+                    <h5 class="card-title">$33999.99</h5>
+                    <p class="card-text">NVIDIA GeForce RTX 4060Ti / INTEL CORE I5 14600KF 3.5 GHZ / 32GB RAM / 2TB SSD M.2 NVMe / ENF. LIQ. 360MM</p>
+                    <a href="#" class="btn btn-primary">Añadir al carrito</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 1 -->
+        <div class="col-md-4">
+            <div class="card">
+                <img src="/img/monitor.png" class="card-img-top" alt="Imagen del producto 1">
+                <div class="card-body">
+                    <h5 class="card-title">$2599.99</h5>
+                    <p class="card-text">Monitor Gamer Cooler Master GA271 LCD 27" / Wide Quad HD / G-Sync/FreeSync / 100Hz / HDMI / Negro / CMI-GA271-US </p>
+                    <a href="#" class="btn btn-primary">Añadir al carrito</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="col-md-4">
+            <div class="card">
+                <img src="/img/grafica.png" class="card-img-top" alt="Imagen del producto 2">
+                <div class="card-body">
+                    <h5 class="card-title">$4299.99</h5>
+                    <p class="card-text">Tarjeta de Video XFX Speedster SWFT210 Radeon RX 6650XT / 8GB GDDR6 / HDMI 3xDP / AMD RDNA 2 / RX-665X8DFDY </p>
+                    <a href="#" class="btn btn-primary">Añadir al carrito</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 3 -->
+        <div class="col-md-4">
+            <div class="card">
+                <img src="/img/pc.png" class="card-img-top" alt="Imagen del producto 3">
+                <div class="card-body">
+                    <h5 class="card-title">$33999.99</h5>
+                    <p class="card-text">NVIDIA GeForce RTX 4060Ti / INTEL CORE I5 14600KF 3.5 GHZ / 32GB RAM / 2TB SSD M.2 NVMe / ENF. LIQ. 360MM</p>
+                    <a href="#" class="btn btn-primary">Añadir al carrito</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 1 -->
+        <div class="col-md-4">
+            <div class="card">
+                <img src="/img/monitor.png" class="card-img-top" alt="Imagen del producto 1">
+                <div class="card-body">
+                    <h5 class="card-title">$2599.99</h5>
+                    <p class="card-text">Monitor Gamer Cooler Master GA271 LCD 27" / Wide Quad HD / G-Sync/FreeSync / 100Hz / HDMI / Negro / CMI-GA271-US </p>
+                    <a href="#" class="btn btn-primary">Añadir al carrito</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="col-md-4">
+            <div class="card">
+                <img src="/img/grafica.png" class="card-img-top" alt="Imagen del producto 2">
+                <div class="card-body">
+                    <h5 class="card-title">$4299.99</h5>
+                    <p class="card-text">Tarjeta de Video XFX Speedster SWFT210 Radeon RX 6650XT / 8GB GDDR6 / HDMI 3xDP / AMD RDNA 2 / RX-665X8DFDY </p>
+                    <a href="#" class="btn btn-primary">Añadir al carrito</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 3 -->
+        <div class="col-md-4">
+            <div class="card">
+                <img src="/img/pc.png" class="card-img-top" alt="Imagen del producto 3">
+                <div class="card-body">
+                    <h5 class="card-title">$33999.99</h5>
+                    <p class="card-text">NVIDIA GeForce RTX 4060Ti / INTEL CORE I5 14600KF 3.5 GHZ / 32GB RAM / 2TB SSD M.2 NVMe / ENF. LIQ. 360MM</p>
+                    <a href="#" class="btn btn-primary">Añadir al carrito</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 1 -->
+        <div class="col-md-4">
+            <div class="card">
+                <img src="/img/monitor.png" class="card-img-top" alt="Imagen del producto 1">
+                <div class="card-body">
+                    <h5 class="card-title">$2599.99</h5>
+                    <p class="card-text">Monitor Gamer Cooler Master GA271 LCD 27" / Wide Quad HD / G-Sync/FreeSync / 100Hz / HDMI / Negro / CMI-GA271-US </p>
+                    <a href="#" class="btn btn-primary">Añadir al carrito</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="col-md-4">
+            <div class="card">
+                <img src="/img/grafica.png" class="card-img-top" alt="Imagen del producto 2">
+                <div class="card-body">
+                    <h5 class="card-title">$4299.99</h5>
+                    <p class="card-text">Tarjeta de Video XFX Speedster SWFT210 Radeon RX 6650XT / 8GB GDDR6 / HDMI 3xDP / AMD RDNA 2 / RX-665X8DFDY </p>
+                    <a href="#" class="btn btn-primary">Añadir al carrito</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 3 -->
+        <div class="col-md-4">
+            <div class="card">
+                <img src="/img/pc.png" class="card-img-top" alt="Imagen del producto 3">
+                <div class="card-body">
+                    <h5 class="card-title">$33999.99</h5>
+                    <p class="card-text">NVIDIA GeForce RTX 4060Ti / INTEL CORE I5 14600KF 3.5 GHZ / 32GB RAM / 2TB SSD M.2 NVMe / ENF. LIQ. 360MM</p>
                     <a href="#" class="btn btn-primary">Añadir al carrito</a>
                 </div>
             </div>
         </div>
     </div>
+    
 </div>
 
 @section Scripts {
